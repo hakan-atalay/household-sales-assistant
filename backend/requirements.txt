@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+pydantic>=2.6
+requests>=2.31
+starlette>=0.37
+uvicorn[standard]>=0.30
